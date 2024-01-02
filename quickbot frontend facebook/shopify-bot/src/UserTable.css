@@ -1,0 +1,19 @@
+/* src/components/UserTable.css */
+.unique-table th, .unique-table td {
+    text-align: center; /* Center align text */
+    vertical-align: middle;
+  }
+  
+  .user-image {
+    width: 100px;
+    height: auto;
+    border-radius: 50%; /* Circular images */
+  }
+  
+  .status-select {
+    width: auto;
+    display: inline-block; /* Adjust width to content */
+  }
+  
+  /* Add more custom styles as needed */
+  

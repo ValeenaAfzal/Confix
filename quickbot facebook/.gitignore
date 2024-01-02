@@ -1,0 +1,21 @@
+# Build artifacts
+build/
+
+# IDE configuration files
+.idea/
+.vscode/
+
+# Personal files
+.history
+.bash_history
+
+# Environment variables
+.env
+.env.production
+
+# Third-party libraries and dependencies
+node_modules/
+
+# Log files and other temporary files
+*.log
+.pid
